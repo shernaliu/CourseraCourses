@@ -32,3 +32,20 @@ This repository contains the files and exercises I did for the following Courser
 | 3 | Applied Machine Learning in Python  | XX/12/2020 |
 | 4 | Applied Text Mining in Python  | XX/12/2020 |
 | 5 | Applied Social Network Analysis in Python  | XX/12/2020 |
+
+### Statistics with Python Specialization `PLANNED`
+
+| # | Course | Date Completed |
+| --- | --- | --- |
+| 1 | Understanding and Visualizing Data with Python | XX/12/2020 |
+| 2 | Inferential Statistical Analysis with Python  | XX/12/2020 |
+| 3 | Fitting Statistical Models to Data with Python  | XX/12/2020 |
+
+### Django for Everybody Specialization `PLANNED`
+
+| # | Course | Date Completed |
+| --- | --- | --- |
+| 1 | Web Application Technologies and Django | XX/12/2020 |
+| 2 | Building Web Applications in Django  | XX/12/2020 |
+| 3 | Django Features and Libraries  | XX/12/2020 |
+| 4 | Using JavaScript, JQuery, and JSON in Django  | XX/12/2020 |
