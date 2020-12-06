@@ -17,7 +17,7 @@ This repository contains the files and exercises I did for the following Courser
 
 | # | Course | Date Completed |
 | --- | --- | --- |
-| 1 | Python Basics | XX/12/2020 |
+| 1 | Python Basics | 06/12/2020 |
 | 2 | Python Functions, Files, and Dictionaries  | XX/12/2020 |
 | 3 | Data Collection and Processing with Python  | XX/12/2020 |
 | 4 | Python Classes and Inheritance  | XX/12/2020 |
