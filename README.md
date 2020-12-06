@@ -12,3 +12,23 @@ This repository contains the files and exercises I did for the following Courser
 | 4 | Using Databases with Python  | 05/12/2020 |
 | 5 | Capstone: Retrieving, Processing, and Visualizing Data with Python  | 05/12/2020 |
 
+
+### Python 3 Programming Specialization `ONGOING`
+
+| # | Course | Date Completed |
+| --- | --- | --- |
+| 1 | Python Basics | XX/12/2020 |
+| 2 | Python Functions, Files, and Dictionaries  | XX/12/2020 |
+| 3 | Data Collection and Processing with Python  | XX/12/2020 |
+| 4 | Python Classes and Inheritance  | XX/12/2020 |
+| 5 | Python Project: pillow, tesseract, and opencv  | XX/12/2020 |
+
+### Applied Data Science with Python Specialization `PLANNED`
+
+| # | Course | Date Completed |
+| --- | --- | --- |
+| 1 | Introduction to Data Science in Python | XX/12/2020 |
+| 2 | Applied Plotting, Charting & Data Representation in Python  | XX/12/2020 |
+| 3 | Applied Machine Learning in Python  | XX/12/2020 |
+| 4 | Applied Text Mining in Python  | XX/12/2020 |
+| 5 | Applied Social Network Analysis in Python  | XX/12/2020 |
