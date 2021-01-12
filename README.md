@@ -13,7 +13,7 @@ This repository contains the files and exercises I did for the following Courser
 | 5 | Capstone: Retrieving, Processing, and Visualizing Data with Python  | 05/12/2020 |
 
 
-### Python 3 Programming Specialization `ONGOING`
+### Python 3 Programming Specialization `ON HOLD`
 
 | # | Course | Date Completed |
 | --- | --- | --- |
@@ -23,7 +23,7 @@ This repository contains the files and exercises I did for the following Courser
 | 4 | Python Classes and Inheritance  | XX/12/2020 |
 | 5 | Python Project: pillow, tesseract, and opencv  | XX/12/2020 |
 
-### Applied Data Science with Python Specialization `PLANNED`
+### Applied Data Science with Python Specialization `ONGOING`
 
 | # | Course | Date Completed |
 | --- | --- | --- |
