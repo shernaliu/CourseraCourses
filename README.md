@@ -49,3 +49,10 @@ This repository contains the files and exercises I did for the following Courser
 | 2 | Building Web Applications in Django  | XX/12/2020 |
 | 3 | Django Features and Libraries  | XX/12/2020 |
 | 4 | Using JavaScript, JQuery, and JSON in Django  | XX/12/2020 |
+
+
+### Guided Projects `COMPLETED`
+
+| # | Course | Date Completed |
+| --- | --- | --- |
+| 1 | D3Js Basics | 09/02/2021 |
