@@ -1,6 +1,6 @@
 # Coursera Courses Online Learning (Ongoing)
 
-This repository contains the files and exercises I did for the following Coursera online courses I took in end Nov to month=? 2021.
+This repository contains the files and exercises I did for the following Coursera online courses and guided projects I took in end Nov to month=? 2021.
 
 ### Python for Everybody Specialization `COMPLETED`
 
@@ -19,36 +19,36 @@ This repository contains the files and exercises I did for the following Courser
 | --- | --- | --- |
 | 1 | Python Basics | 06/12/2020 |
 | 2 | Python Functions, Files, and Dictionaries  | 08/12/2020 |
-| 3 | Data Collection and Processing with Python  | XX/12/2020 |
-| 4 | Python Classes and Inheritance  | XX/12/2020 |
-| 5 | Python Project: pillow, tesseract, and opencv  | XX/12/2020 |
+| 3 | Data Collection and Processing with Python  | XX/XX/2021 |
+| 4 | Python Classes and Inheritance  | XX/XX/2021 |
+| 5 | Python Project: pillow, tesseract, and opencv  | XX/XX/2021 |
 
 ### Applied Data Science with Python Specialization `ONGOING`
 
 | # | Course | Date Completed |
 | --- | --- | --- |
-| 1 | Introduction to Data Science in Python | XX/12/2020 |
-| 2 | Applied Plotting, Charting & Data Representation in Python  | XX/12/2020 |
-| 3 | Applied Machine Learning in Python  | XX/12/2020 |
-| 4 | Applied Text Mining in Python  | XX/12/2020 |
-| 5 | Applied Social Network Analysis in Python  | XX/12/2020 |
+| 1 | Introduction to Data Science in Python | XX/XX/2021 |
+| 2 | Applied Plotting, Charting & Data Representation in Python  | XX/XX/2021 |
+| 3 | Applied Machine Learning in Python  | XX/XX/2021 |
+| 4 | Applied Text Mining in Python  | XX/XX/2021 |
+| 5 | Applied Social Network Analysis in Python  | XX/XX/2021 |
 
 ### Statistics with Python Specialization `PLANNED`
 
 | # | Course | Date Completed |
 | --- | --- | --- |
-| 1 | Understanding and Visualizing Data with Python | XX/12/2020 |
-| 2 | Inferential Statistical Analysis with Python  | XX/12/2020 |
-| 3 | Fitting Statistical Models to Data with Python  | XX/12/2020 |
+| 1 | Understanding and Visualizing Data with Python | XX/XX/2021 |
+| 2 | Inferential Statistical Analysis with Python  | XX/XX/2021 |
+| 3 | Fitting Statistical Models to Data with Python  | XX/XX/2021 |
 
 ### Django for Everybody Specialization `PLANNED`
 
 | # | Course | Date Completed |
 | --- | --- | --- |
-| 1 | Web Application Technologies and Django | XX/12/2020 |
-| 2 | Building Web Applications in Django  | XX/12/2020 |
-| 3 | Django Features and Libraries  | XX/12/2020 |
-| 4 | Using JavaScript, JQuery, and JSON in Django  | XX/12/2020 |
+| 1 | Web Application Technologies and Django | XX/XX/2021 |
+| 2 | Building Web Applications in Django  | XX/XX/2021 |
+| 3 | Django Features and Libraries  | XX/XX/2021 |
+| 4 | Using JavaScript, JQuery, and JSON in Django  | XX/XX/2021 |
 
 
 ### Guided Projects `COMPLETED`
