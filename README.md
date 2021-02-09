@@ -1,6 +1,6 @@
 # Coursera Courses Online Learning (Ongoing)
 
-This repository contains the files and exercises I did for the following Coursera online courses I took in end Nov to December 2020.
+This repository contains the files and exercises I did for the following Coursera online courses I took in end Nov to month=? 2021.
 
 ### Python for Everybody Specialization `COMPLETED`
 
