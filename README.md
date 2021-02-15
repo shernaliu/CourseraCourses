@@ -56,3 +56,5 @@ This repository contains the files and exercises I did for the following Courser
 | # | Course | Date Completed |
 | --- | --- | --- |
 | 1 | D3Js Basics | 09/02/2021 |
+| 2 | Pandas Python Library for Beginners in Data Science | 14/02/2021 |
+
