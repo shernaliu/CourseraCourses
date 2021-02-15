@@ -19,7 +19,7 @@ This repository contains the files and exercises I did for the following Courser
 | --- | --- | --- |
 | 1 | Python Basics | 06/12/2020 |
 | 2 | Python Functions, Files, and Dictionaries  | 08/12/2020 |
-| 3 | Data Collection and Processing with Python  | XX/XX/2021 |
+| 3 | Data Collection and Processing with Python  | 14/02/2021 |
 | 4 | Python Classes and Inheritance  | XX/XX/2021 |
 | 5 | Python Project: pillow, tesseract, and opencv  | XX/XX/2021 |
 
