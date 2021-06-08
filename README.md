@@ -27,7 +27,7 @@ This repository contains the files and exercises I did for the following Courser
 
 | # | Course | Date Completed |
 | --- | --- | --- |
-| 1 | Introduction to Data Science in Python | XX/XX/2021 |
+| 1 | Introduction to Data Science in Python | 08/06/2021 |
 | 2 | Applied Plotting, Charting & Data Representation in Python  | XX/XX/2021 |
 | 3 | Applied Machine Learning in Python  | XX/XX/2021 |
 | 4 | Applied Text Mining in Python  | XX/XX/2021 |
