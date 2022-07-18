@@ -1,0 +1,22 @@
+{
+  "name": "courseapp",
+  "version": "1.0.0",
+  "description": "Follow coursera guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shernaliu/CourseraCourses.git"
+  },
+  "author": "Sherna Liew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shernaliu/CourseraCourses/issues"
+  },
+  "homepage": "https://github.com/shernaliu/CourseraCourses#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
