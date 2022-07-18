@@ -12,7 +12,6 @@ This repository contains the files and exercises I did for the following Courser
 | 4 | Using Databases with Python  | 05/12/2020 |
 | 5 | Capstone: Retrieving, Processing, and Visualizing Data with Python  | 05/12/2020 |
 
-
 ### Python 3 Programming Specialization `ONGOING`
 
 | # | Course | Date Completed |
@@ -22,6 +21,13 @@ This repository contains the files and exercises I did for the following Courser
 | 3 | Data Collection and Processing with Python  | 14/02/2021 |
 | 4 | Python Classes and Inheritance  | 02/06/2021 |
 | 5 | Python Project: pillow, tesseract, and opencv  | XX/XX/2021 |
+
+### Full-Stack Web Development with React `ONGOING`
+| # | Course | Date Completed |
+| --- | --- | --- |
+| 1 | Front-End Web UI Frameworks and Tools: Bootstrap 4 | xx/xx/2022 |
+| 2 | Front-End Web Development with React | xx/xx/2022 |
+| 3 | Server-side Development with NodeJS, Express and MongoDB | xx/xx/2022 |
 
 ### Applied Data Science with Python Specialization `ONGOING`
 
